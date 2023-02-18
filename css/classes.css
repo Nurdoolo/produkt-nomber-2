@@ -1,0 +1,15 @@
+@media screen and (max-width: 670px){
+    .header_box{
+        flex-wrap: wrap;
+    }
+    .book_text{
+        flex-wrap: wrap;
+    }
+    .tuobook_content{
+        flex-wrap: wrap;
+        
+    }
+    .kenzo_meny{
+        padding-left: 60px;
+    }
+}

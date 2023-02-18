@@ -1,0 +1,51 @@
+.tuobook_container{
+    display: flex;
+    font-family: 'Roboto';
+    list-style: none;
+    justify-content: space-between;
+
+}
+.tuobook_one{
+    margin-top: 40px;
+    font-weight: 400;
+}
+
+.tuobook_tuo{
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 1cm;
+
+}
+
+.tuobook_tree{
+    margin-top: 40px;
+    font-weight: 300;
+
+}
+.tuobook_fleo{
+    margin-top: 40px;
+    width: 333px;
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+}
+.tuobook_five{
+    margin-top: 40px;
+    width: 380px;
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+
+}
+.tuobook_six{
+    margin-top: 40px;
+    width: 399px;
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+
+}
+.tuobook_content{
+    align-items: center;
+    font-weight: 400;
+}
